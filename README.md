@@ -25,4 +25,4 @@
  4. [`C4: Tableaux`] ;
  5. [`C6: Pointeurs`] ;
 
- # ``` [`Support 1`](https://github.com/pape-barro/L2-supdeco-24/blob/main/cours-Part1.pdf) ```;
+ ## [`Support 1`](https://github.com/pape-barro/L2-supdeco-24/blob/main/cours-Part1.pdf);
