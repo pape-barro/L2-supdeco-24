@@ -17,10 +17,10 @@
 ``` - Prérequis: ```
  * Aucun (Quelques notions en Algorithme).
  
- # ``` Part l: ```
- 1. [`Généralités et formalisme`] ;
+ # ``` Part l:  - ``` du 05 au 10 Janvier 2024 ``` ```
+ 1. [`C1:Généralités et formalisme`] ;
  2. [`C2: Variables, opérateurs et opérations`] ;
  3. [`C3: Structures de contrôles`];
  4. [`C4: Tableaux`] ;
- 5. [`C6: Pointeurs`]
- ==> [`Support 1`](https://github.com/pape-barro/l2_supdeco/blob/main/Chap6.pdf) - ``` 05 - 10 Janvier 2024 ``` ;
+ 5. [`C6: Pointeurs`] ;
+ ==> [`Support 1`](https://github.com/pape-barro/L2-supdeco-24/blob/main/cours-Part1.pdf);
